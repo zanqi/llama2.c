@@ -1,0 +1,6 @@
+.DS_Store
+*.bin
+*.gz
+/data
+run
+run.dSYM/Contents/Info.plist
